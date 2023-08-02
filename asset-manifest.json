@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/denny-mini-cart-project/static/css/main.4db84ce3.css",
-    "main.js": "/denny-mini-cart-project/static/js/main.32537ce2.js",
+    "main.css": "/denny-mini-cart-project/static/css/main.10e04d16.css",
+    "main.js": "/denny-mini-cart-project/static/js/main.dd1ba709.js",
     "static/js/787.db77c97c.chunk.js": "/denny-mini-cart-project/static/js/787.db77c97c.chunk.js",
     "static/media/fa-solid-900.ttf": "/denny-mini-cart-project/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/denny-mini-cart-project/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/denny-mini-cart-project/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/denny-mini-cart-project/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/denny-mini-cart-project/index.html",
-    "main.4db84ce3.css.map": "/denny-mini-cart-project/static/css/main.4db84ce3.css.map",
-    "main.32537ce2.js.map": "/denny-mini-cart-project/static/js/main.32537ce2.js.map",
+    "main.10e04d16.css.map": "/denny-mini-cart-project/static/css/main.10e04d16.css.map",
+    "main.dd1ba709.js.map": "/denny-mini-cart-project/static/js/main.dd1ba709.js.map",
     "787.db77c97c.chunk.js.map": "/denny-mini-cart-project/static/js/787.db77c97c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4db84ce3.css",
-    "static/js/main.32537ce2.js"
+    "static/css/main.10e04d16.css",
+    "static/js/main.dd1ba709.js"
   ]
 }
